@@ -1,0 +1,15 @@
+input {
+    text-align: center;
+}
+
+.form-control-lg {
+    font-size: 1.8rem;
+}
+
+.cursor {
+    cursor: pointer;
+}
+
+.p-2 {
+    text-align: center;
+}
